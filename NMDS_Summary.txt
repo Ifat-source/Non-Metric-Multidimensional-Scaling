@@ -1,0 +1,17 @@
+
+Call:
+metaMDS(comm = t(data), distance = "jaccard", k = 2, trymax = 200,      autotransform = FALSE) 
+
+global Multidimensional Scaling using monoMDS
+
+Data:     t(data) 
+Distance: jaccard 
+
+Dimensions: 2 
+Stress:     0.09639581 
+Stress type 1, weak ties
+Best solution was repeated 2 times in 20 tries
+The best solution was from try 13 (random start)
+Scaling: centring, PC rotation, halfchange scaling 
+Species: expanded scores based on ‘t(data)’ 
+
